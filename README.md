@@ -1,10 +1,15 @@
 A first try to make a portfolio website
 
+Languages which were used for this web site:
+HTML CSS
+
 Has one main scrolling page with menu projects and contact information on the bottom
 
 ![frontPage](https://github.com/dimon-ua/welcome-website1/assets/19237081/b49b599a-886c-4786-a2df-1a258a81a7ff)
 
 The web site has dark font on the header and bottom and light font in the middle of the web site
+
+Projects in the middle of the page are linked to one project as an example.
 
 Software which was used for creating the web paages
 
@@ -24,6 +29,11 @@ Software which was used for creating the web paages
 The web site was checked for the validation
 
 ![validating](https://github.com/dimon-ua/welcome-website1/assets/19237081/f685ed54-122f-4c52-a98f-043b80ec114f)
+
+
+What can be done in future:
+-Hamburger menu
+-Fullfill the contact and Skills pages.
 
 
 
