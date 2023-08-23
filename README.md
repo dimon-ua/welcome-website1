@@ -1,6 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+Welcome,![free images](https://github.com/dimon-ua/welcome-website1/assets/19237081/20948d4e-b793-4f73-9b24-f996474212d4)
+
 
 This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
