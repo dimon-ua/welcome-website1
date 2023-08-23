@@ -1,40 +1,30 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+A first try to make a portfolio website
 
-Welcome,![free images](https://github.com/dimon-ua/welcome-website1/assets/19237081/20948d4e-b793-4f73-9b24-f996474212d4)
+Has one main scrolling page with menu projects and contact information on the bottom
+
+![frontPage](https://github.com/dimon-ua/welcome-website1/assets/19237081/b49b599a-886c-4786-a2df-1a258a81a7ff)
+
+The web site has dark font on the header and bottom and light font in the middle of the web site
+
+Software which was used for creating the web paages
+
+--- Flaticon for free icons
+
+![free icons](https://github.com/dimon-ua/welcome-website1/assets/19237081/4d0ec405-bdd4-455e-9559-b54955414578)
+
+--- Free images on Pexels
+
+![free images](https://github.com/dimon-ua/welcome-website1/assets/19237081/8ffcdb45-17d7-4666-aeff-12da48396add)
+
+---iloveimg for resizing images
+
+![ResizeImg](https://github.com/dimon-ua/welcome-website1/assets/19237081/be52f406-a156-4656-976d-4e93b7487e01)
 
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The web site was checked for the validation
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+![validating](https://github.com/dimon-ua/welcome-website1/assets/19237081/f685ed54-122f-4c52-a98f-043b80ec114f)
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
